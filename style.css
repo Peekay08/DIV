@@ -15,6 +15,9 @@ body {
     border-color:#cacbcd;
     padding: 8px 12px;
     border-bottom: 10px solid #cacbcd;
+    margin: auto;
+    width: 50%;
+    margin-top: 100px;
 }
 
 .div2 {
@@ -72,4 +75,16 @@ h4 {
 
 .dvd {
     color: rgb(180, 2, 180);
+}
+
+.bla {
+    margin: auto;
+    margin-top: 100px;
+}
+
+.frame {
+    margin: auto;
+    height: 500px;
+    width: 1000px;
+    margin-left: 200px;
 }
